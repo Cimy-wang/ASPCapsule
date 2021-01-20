@@ -1,3 +1,3 @@
 # ASPCapsule
 
-We develop an adaptive spatial patterns capsule network. This awesome code is coming soon!
+We have relased the code of ASPcapsule nerual network, And the paper has been submitted to IEEE tim.
