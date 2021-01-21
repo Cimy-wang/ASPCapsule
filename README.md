@@ -13,7 +13,7 @@ Validate_set is an optional parameter. If the value of Validate_set is set, the 
                                         mode='auto',
                                         restore_best_weights=True)
 
-Otherwise, it will be judged based on the training accuracy or training loss, and be set as:
+Otherwise, it should be judged based on the training accuracy or training loss, and be set as:
 
     callback = callbacks.EarlyStopping(monitor='acc',
                                        min_delta=0,
