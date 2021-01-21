@@ -22,5 +22,16 @@ otherwise, it will be judged based on the training accuracy or training loss, an
                                        mode='auto',
                                        restore_best_weights=True)
 ******
-If you want to run this code on the other datasets, please directly replace the ********.mat* file in the data folder.
+If you want to run this code on the other datasets, please directly replace the ********.mat* file in the *data* folder.
+
+     --> data
+        --> ****.mat
+     --> img
+        --> result
+     --> ASP_layer.py
+     --> ASPcaps_layer.py
+     --> batchdot.py
+     --> main_ASPCnet.py
+     --> util.py
 ******
+   ****.mat data file should include *img* file (m x n x c) and *ground* file (m x n)
