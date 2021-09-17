@@ -6,15 +6,15 @@ This project has been verified in
 
 
 Requirements
-******
-python3
-cuda=9
-cudnn=7
-tensorflow-gpu==1.12
-keras==2.2.4
-numpy 
-scipy
-******
+
+     python3
+     cuda=9
+     cudnn=7
+     tensorflow-gpu==1.12
+     keras==2.2.4
+     numpy 
+     scipy
+
 
 ******
 Validate_set is an optional parameter. If the value of Validate_set is set, the early_stop operation should be set as follows:
