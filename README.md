@@ -47,5 +47,11 @@ If you want to run this code on the other datasets, please directly replace the 
      --> main_ASPCnet.py
      --> util.py
 ******
-   ****.mat data file should include *img* file (m x n x c) and *ground* file (m x n)
-   data source files and introduce can been found in http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes
+
+Quick start
+
+     ****.mat data file should include *img* file (m x n x c) and *ground* file (m x n)
+     data source files and introduce can been found in http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes
+     
+     
+   
